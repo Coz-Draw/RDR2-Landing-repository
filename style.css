@@ -55,22 +55,22 @@ nav a:hover {
 }
 
 .hero h1 {
-    font-size: 3.5rem;
+    font-size: 5rem;
     margin-bottom: 20px;
     color: #ffffff;
 }
 
 .hero p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     margin-bottom: 30px;
 }
 
 button {
-    padding: 12px 30px;
+    padding: 15px 30px;
     background-color: #7a0c0c;
     border: none;
     color: white;
-    font-size: 1rem;
+    font-size: 1.6rem;
     cursor: pointer;
     transition: 0.3s;
 }
@@ -80,13 +80,15 @@ button:hover {
 }
 
 .seccion {
-    padding: 80px 50px;
+    padding: 60px 800px;
     text-align: center;
+    font-size: 1.6rem;
+    margin-bottom: 20px;
 }
 
 .seccion h2 {
     margin-bottom: 20px;
-    font-size: 2rem;
+    font-size: 2.4rem;
     color: #7a0c0c;
 }
 
@@ -99,4 +101,10 @@ footer {
     padding: 20px;
     background-color: #000000;
     font-size: 0.9rem;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
 }
